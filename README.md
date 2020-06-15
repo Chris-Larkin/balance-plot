@@ -5,4 +5,4 @@ I regularly run randomized controlled trials, and found myself writing/copying l
 
 The graphs look something like this:
 
-![](images/balance_plot.pdf)
+![](images/balance_plot.png)
